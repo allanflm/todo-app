@@ -19,19 +19,15 @@ Este é um aplicativo de linha de comando (CLI) para gerenciar tarefas (todos), 
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/allanflm/todo-app.git
     ```
-2. Navegue até o diretório do projeto:
-    ```bash
-    cd nome-do-repositorio
-    ```
-3. Compile o projeto:
+2. Compile o projeto:
     ```bash
     go build
     ```
-4. Execute o programa:
+3. Execute o programa:
     ```bash
-    ./nome-do-repositorio
+    go run ./
     ```
 
 ## Exemplo de Uso
